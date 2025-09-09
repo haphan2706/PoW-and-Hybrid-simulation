@@ -1,4 +1,4 @@
-# Blockchain Consensus Demo
+# Blockchain Consensus
 
 Mô phỏng cơ chế đồng thuận blockchain (PoW và Hybrid)
 
